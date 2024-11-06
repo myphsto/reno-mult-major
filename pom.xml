@@ -13,7 +13,7 @@
     <dependency>
       <groupId>com.graphql-java</groupId>
       <artifactId>graphql-java-extended-scalars</artifactId>
-      <version>21.0</version>
+      <version>2021-10-11T21-35-35-49138ff</version>
     </dependency>
   </dependencies>
 </project>
