@@ -1,7 +1,7 @@
 # 32353
 ## Current behavior
 
-using the multiple major releases preset for renovate causes some deps to downgrade
+renovate causes some deps to downgrade when older non-semver releases are present
 
 ## Expected behavior
 
